@@ -12,3 +12,7 @@ bywy075551@gmail.com | https://github.com/bjh1107
 - C
 - C++
 - Html
+
+#Projects
+- 평택 토이프로젝트<br>
+>친구들과 함께하는 프로젝트, 개발자의 길을 걷기 위한 첫걸음
